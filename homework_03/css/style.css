@@ -1,0 +1,65 @@
+* {
+    color:blue;
+}
+
+p {
+    color: green;
+}
+
+a {
+    color: #FFCC00;
+}
+
+h1 {
+    color: #0033FF;
+}
+
+h2 {
+    color: #339999;
+}
+
+ol {
+    color: black;
+}
+
+li {
+    color: orangered;
+}
+
+mark {
+    color: aqua;
+}
+
+span {
+    color:#CC0066;
+}
+
+
+#section-01 {
+    color: 	#6600CC;
+}
+
+
+[class*="text"] {
+    color:#FF00FF ;
+}
+
+.text-01 p {
+    color: peru;
+}
+
+.description * {
+    color: tomato;
+}
+
+.summary > p {
+    color: 	blue;
+}
+
+.summary ~ p {
+    color: #999900 ;
+}
+
+.summary + p {
+    color: red;
+}
