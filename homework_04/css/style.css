@@ -1,0 +1,160 @@
+/* fonts: Nova Square, Big Shoulders Stencil, - html links
+        Doto, Grenze Gotisch - css links
+        Playwrite England SemiJoined, Expletus Sans - local
+*/
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@400;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze%20Gotisch:wght@400;600;800&display=swap');
+
+h1 {
+    font-family: "Nova Square";
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    font-size: 46px;
+    color: darkblue;
+    line-height: 2;
+    letter-spacing: 10px;
+    word-spacing: 15px;
+
+    text-decoration: underline overline coral;
+    text-decoration-thickness: 5px;
+    text-decoration-style:double;
+    text-shadow: 20px 10px 5px rgba(95, 91, 91, 0.6);
+
+}
+
+.rockets {
+    width: 600px;
+    height: 600px;
+}
+
+.intro {
+    font-family: "Nova Square";
+    text-align:justify;
+    text-transform:none;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: black;
+    line-height: 2;
+}
+
+.ktech{
+    font-family: "Nova Square";
+    text-align: center;
+    text-transform:capitalize;
+    margin-bottom: 80px;
+    font-size: 30px;
+    color:#820000;
+    line-height: 1;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+h3 {
+    font-family: "Grenze Gotisch";
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size: 26px;
+    color:red;
+    line-height: 1;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+
+    text-decoration: underline  coral;
+    text-decoration-thickness: 3px;
+    text-shadow: -20px -10px 5px #50151599;
+    text-decoration-style: wavy;
+
+}
+
+li {
+    margin-left: 30px;
+    list-style: disc;
+}
+
+.info-1 {
+    font-family: "Playwrite England SemiJoined";
+    font-weight: 600;
+    text-align: left;
+    text-transform: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color:#c300ff;
+    line-height: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+.info-2 {
+    font-family: "Big Shoulders Stencil";
+    font-weight: 600;
+    text-align: left;
+    text-transform: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color:hwb(29 0% 0%);
+    line-height: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+.info-3 {
+    font-family: "Doto";
+    font-weight: 600;
+    text-align: left;
+    text-transform: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color:lab(55.23% 85.46 -2.62);
+    line-height: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+.info-4 {
+    font-family: "Expletus Sans";
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color:lab(55.23% 85.46 -2.62);
+    line-height: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+.info-5 {
+    font-family: "Nova Square";
+    font-weight: 400;
+    text-align: left;
+    text-transform: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color:lab(55.23% 85.46 -2.62);
+    line-height: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+.crossline {
+    font-family: "Playwrite England SemiJoined";
+    font-weight: 800;
+    text-align: left;
+    text-transform: none;
+    margin-bottom: 20px;
+    font-size: 50px;
+    color:hsl(170, 100%, 50%);
+    line-height: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+span {
+    text-decoration:line-through  #ff5050;
+    text-transform: uppercase;
+    text-decoration-thickness: 5px;
+}

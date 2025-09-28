@@ -1,0 +1,18 @@
+/*Playwrite England SemiJoined, Expletus Sans*/
+
+@font-face {
+    font-family: "England SemiJoined";
+    src: url(../fonts/PlaywriteGBS-VariableFont_wght.woff2);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Expletus Sans";
+    src: url(../fonts/ExpletusSans-VariableFont_wght.woff2);
+    
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
